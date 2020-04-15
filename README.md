@@ -1,4 +1,4 @@
-# SkillBox Python test
+# Python test
 
 ### Спроектировать небольшое приложение на Django "Управление обучением"
 
